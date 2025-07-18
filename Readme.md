@@ -34,7 +34,7 @@ Welcome to the **Cold Email Generator** — an AI-powered Streamlit application 
 ## 🧰 Project Structure
 
 ```
-cold-email-generator/
+
 ├── app/
 │   └── resources/
 │       └── my_portfolio.csv        # Your personal portfolio CSV

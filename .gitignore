@@ -1,0 +1,33 @@
+# Python cache and virtual environments
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+ENV/
+
+# Environment variables
+.env
+*.env
+
+# Data and database files
+*.db
+*.sqlite3
+*.sqlite
+*.pkl
+*.log
+
+# ChromaDB and vector database directories (adjust to your actual folder names)
+vectorstore/
+chromadb/
+
+# Resource files (adjust paths if needed)
+app/resources/my_portfolio.csv
+
+# Jupyter notebook checkpoints (optional)
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
